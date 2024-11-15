@@ -20,7 +20,7 @@ for (let item in freqObj) {
     } 
 }
 
-	
+return null
 }
 const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
