@@ -20,7 +20,7 @@ for (let item in freqObj) {
         return null
     }
 }
-console.log(freqObj);
+
 	
 }
 const input = prompt("Enter a string");
